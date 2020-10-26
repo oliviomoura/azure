@@ -3,17 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "rgName": {
-            "value": "teste" // TODO: Fill in parameter value
+            "value": "teste",
+            "defaultValue": "eastus2"
         },
         "metadata": {
             "description": "<description-of-the parameter>"
         },
         "rgLocation": {
-            "value": "", // TODO: Fill in parameter value
-            "defaultValue": "<default-value-of-parameter>"
+            "value": "eastus2",
+            "defaultValue": "eastus2"
+        },
+        "metadata": {
+            "description": "<description-of-the parameter>"
         },
         "storageAccountName": {
-            "value": "" // TODO: Fill in parameter value
-        }
+            "value": "storageaccountblbaka",
+            "defaultValue": "eastus2"
+        },
+        "metadata": {
+            "description": "<description-of-the parameter>"
+        },
     }
 }
