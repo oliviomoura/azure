@@ -4,24 +4,21 @@
     "parameters": {
         "rgName": {
             "value": "teste",
-            "defaultValue": "eastus2"
-        },
-        "metadata": {
-            "description": "<description-of-the parameter>"
+            "metadata": {
+            "description": "description1"
+            }
         },
         "rgLocation": {
             "value": "eastus2",
-            "defaultValue": "eastus2"
-        },
-        "metadata": {
-            "description": "<description-of-the parameter>"
-        },
+            "metadata": {
+                "description": "description1"
+                }
+            },
         "storageAccountName": {
             "value": "storageaccountblbaka",
-            "defaultValue": "eastus2"
-        },
-        "metadata": {
-            "description": "<description-of-the parameter>"
-        },
+            "metadata": {
+                "description": "description1"
+                }
+            }
     }
 }
